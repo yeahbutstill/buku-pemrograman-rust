@@ -1,0 +1,1 @@
+/home/yeahbutstill/IdeaProjects/github/RUST/buku-pemrograman-rust/jajalrust/guessing_game/target/debug/guessing_game: /home/yeahbutstill/IdeaProjects/github/RUST/buku-pemrograman-rust/jajalrust/guessing_game/src/main.rs
