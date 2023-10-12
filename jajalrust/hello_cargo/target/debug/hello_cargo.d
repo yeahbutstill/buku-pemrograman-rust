@@ -1,0 +1,1 @@
+/home/yeahbutstill/IdeaProjects/github/RUST/buku-pemrograman-rust/jajalrust/hello_cargo/target/debug/hello_cargo: /home/yeahbutstill/IdeaProjects/github/RUST/buku-pemrograman-rust/jajalrust/hello_cargo/src/main.rs
