@@ -1,4 +1,4 @@
-use std::io;
+use std::io; 
 
 fn main() {
     println!("Guess the number!");
@@ -10,8 +10,12 @@ fn main() {
     let _bananas = 60; // mutable
 
     io::stdin()
-        .read_line(&mut guess)
+        .read_line(&mut guess) // tanda & menunjukan bahwa argument ini adalah refrensi
         .expect("Failed to read line");
 
     println!("You guessed: {guess}");
+
+    let x = 15;
+    let y = 10;
+    println!("x = {x} and y + 2 = {}", y+2);
 }
