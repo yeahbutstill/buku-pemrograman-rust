@@ -6,8 +6,8 @@ fn main() {
 
     // let untuk membuat variable baru
     let mut guess = String::new(); // default variable di rust itu immutable, untuk menjadi mutable kita harus menambahkan keyword mut  
-    let apples = 45; // immutable
-    let mut bananas = 60; // mutable
+    let _apples = 45; // immutable
+    let _bananas = 60; // mutable
 
     io::stdin()
         .read_line(&mut guess)
